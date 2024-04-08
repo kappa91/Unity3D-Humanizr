@@ -88,10 +88,10 @@ namespace Humanizer.Localisation.NumberToWords
 
             if (number > 0)
             {
-                if (parts.Count != 0)
+                /*if (parts.Count != 0)
                 {
                     parts.Add("and");
-                }
+                }*/
 
                 if (number < 20)
                 {
